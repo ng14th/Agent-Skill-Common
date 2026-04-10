@@ -2,7 +2,7 @@
 Skill Common for agent
 
 ## Layout
-# Add folder .agent and .skill into your projects folder 
+### Add folder .agent and .skill into your projects folder 
 ```text
 .
 ├── project_folder/
