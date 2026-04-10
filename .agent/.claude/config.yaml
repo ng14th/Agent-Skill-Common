@@ -1,0 +1,17 @@
+version: 1
+profile: code-developer
+skills:
+  - name: code-reviewer
+    path: ../../.skills/code-reviewer/SKILL.md
+  - name: code-developer
+    path: ../../.skills/code-developer/SKILL.md
+  - name: solution-architect-tech-lead
+    path: ../../.skills/solution-architect-tech-lead/SKILL.md
+default_skills:
+  - code-reviewer
+  - code-developer
+  - solution-architect-tech-lead
+imports:
+  - ../../.skills/code-reviewer/SKILL.md
+  - ../../.skills/code-developer/SKILL.md
+  - ../../.skills/solution-architect-tech-lead/SKILL.md
